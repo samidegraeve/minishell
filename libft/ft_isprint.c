@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   ft_isprint.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: najeuneh <najeuneh@student.s19.be>         +#+  +:+       +#+        */
+/*   By: sadegrae <sadegrae@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/04/03 14:43:25 by najeuneh          #+#    #+#             */
-/*   Updated: 2024/05/28 17:24:41 by najeuneh         ###   ########.fr       */
+/*   Created: 2025/05/12 22:46:23 by sadegrae          #+#    #+#             */
+/*   Updated: 2025/05/12 22:46:24 by sadegrae         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "../inc/libft.h"
 

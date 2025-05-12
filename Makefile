@@ -3,10 +3,10 @@
 #                                                         :::      ::::::::    #
 #    Makefile                                           :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: najeuneh < najeuneh@student.s19.be >       +#+  +:+       +#+         #
+#    By: sadegrae <sadegrae@student.s19.be>         +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
-#    Created: 2024/02/22 17:24:32 by najeuneh          #+#    #+#              #
-#    Updated: 2024/09/19 18:02:56 by najeuneh         ###   ########.fr        #
+#    Created: 2025/05/12 22:47:43 by sadegrae          #+#    #+#              #
+#    Updated: 2025/05/12 22:47:44 by sadegrae         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 

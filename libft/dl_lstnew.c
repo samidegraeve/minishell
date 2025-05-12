@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   dl_lstnew.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: najeuneh < najeuneh@student.s19.be >       +#+  +:+       +#+        */
+/*   By: sadegrae <sadegrae@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/04/12 14:18:33 by najeuneh          #+#    #+#             */
-/*   Updated: 2024/09/09 14:57:36 by najeuneh         ###   ########.fr       */
+/*   Created: 2025/05/12 22:46:42 by sadegrae          #+#    #+#             */
+/*   Updated: 2025/05/12 22:46:43 by sadegrae         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "../inc/libft.h"
 

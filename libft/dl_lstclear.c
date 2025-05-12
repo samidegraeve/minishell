@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   dl_lstclear.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: najeuneh <najeuneh@student.s19.be>         +#+  +:+       +#+        */
+/*   By: sadegrae <sadegrae@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/04/12 15:02:19 by najeuneh          #+#    #+#             */
-/*   Updated: 2024/06/04 18:21:19 by najeuneh         ###   ########.fr       */
+/*   Created: 2025/05/12 22:46:36 by sadegrae          #+#    #+#             */
+/*   Updated: 2025/05/12 22:46:37 by sadegrae         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "../inc/libft.h"
 

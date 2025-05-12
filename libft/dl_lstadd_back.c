@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   dl_lstadd_back.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: najeuneh <najeuneh@student.s19.be>         +#+  +:+       +#+        */
+/*   By: sadegrae <sadegrae@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/04/12 14:48:09 by najeuneh          #+#    #+#             */
-/*   Updated: 2024/07/30 17:30:23 by najeuneh         ###   ########.fr       */
+/*   Created: 2025/05/12 22:44:42 by sami              #+#    #+#             */
+/*   Updated: 2025/05/12 22:46:30 by sadegrae         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "../inc/libft.h"
 

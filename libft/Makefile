@@ -1,3 +1,15 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    Makefile                                           :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: sadegrae <sadegrae@student.s19.be>         +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2025/05/12 22:47:32 by sadegrae          #+#    #+#              #
+#    Updated: 2025/05/12 22:47:33 by sadegrae         ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
 SOURCE = ft_bzero.c   ft_isalnum.c ft_isascii.c ft_isprint.c ft_memchr.c  ft_memcpy.c  ft_memset.c \
 ft_strchr.c  ft_strjoin.c ft_strlcpy.c ft_strncmp.c ft_strrchr.c ft_substr.c  ft_toupper.c ft_atoi.c \
 ft_calloc.c ft_isalpha.c ft_isdigit.c ft_itoa.c ft_memcmp.c ft_memmove.c ft_split.c ft_strdup.c \
